@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/axplinux/estudo/csharp/balta/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/home/axplinux/estudo/csharp/balta/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
