@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/axplinux/estudo/csharp/balta/Calculator/Calculator.csproj": {}
+    "/home/axplinux/estudo/csharp/balta/estudoscsharp/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/home/axplinux/estudo/csharp/balta/Calculator/Calculator.csproj": {
+    "/home/axplinux/estudo/csharp/balta/estudoscsharp/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/axplinux/estudo/csharp/balta/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/axplinux/estudo/csharp/balta/estudoscsharp/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/axplinux/estudo/csharp/balta/Calculator/Calculator.csproj",
+        "projectPath": "/home/axplinux/estudo/csharp/balta/estudoscsharp/Calculator/Calculator.csproj",
         "packagesPath": "/home/axplinux/.nuget/packages/",
-        "outputPath": "/home/axplinux/estudo/csharp/balta/Calculator/obj/",
+        "outputPath": "/home/axplinux/estudo/csharp/balta/estudoscsharp/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/axplinux/.nuget/NuGet/NuGet.Config"
