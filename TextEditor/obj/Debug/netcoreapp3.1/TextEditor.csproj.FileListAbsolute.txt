@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.deps.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.genruntimeconfig.cache

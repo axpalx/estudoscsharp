@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp.deps.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/bin/Debug/netcoreapp3.1/MyApp.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/MyApp/obj/Debug/netcoreapp3.1/MyApp.genruntimeconfig.cache

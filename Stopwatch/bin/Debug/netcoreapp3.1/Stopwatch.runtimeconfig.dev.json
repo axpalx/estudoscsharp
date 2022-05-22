@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/axplinux/.dotnet/store/|arch|/|tfm|",
+      "/home/axplinux/.nuget/packages"
+    ]
+  }
+}

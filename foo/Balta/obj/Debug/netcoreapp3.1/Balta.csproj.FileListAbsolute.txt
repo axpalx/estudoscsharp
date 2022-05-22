@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta.deps.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/bin/Debug/netcoreapp3.1/Balta.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/foo/Balta/obj/Debug/netcoreapp3.1/Balta.genruntimeconfig.cache

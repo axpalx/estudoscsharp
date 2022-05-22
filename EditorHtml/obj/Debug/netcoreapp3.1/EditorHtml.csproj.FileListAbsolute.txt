@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.deps.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.genruntimeconfig.cache

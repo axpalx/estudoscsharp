@@ -1,0 +1,13 @@
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.deps.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.runtimeconfig.dev.json
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/bin/Debug/netcoreapp3.1/Stopwatch.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csprojAssemblyReference.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfoInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.AssemblyInfo.cs
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.csproj.CoreCompileInputs.cache
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.dll
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.pdb
+/home/axplinux/estudo/csharp/balta/estudoscsharp/Stopwatch/obj/Debug/netcoreapp3.1/Stopwatch.genruntimeconfig.cache
